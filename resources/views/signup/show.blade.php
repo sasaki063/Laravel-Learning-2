@@ -1,9 +1,9 @@
 <header>
-  <a href="/">TOP</a>
+  <a href="/signin">TOP</a>
   <a href="/signup">Signup</a>
 </header>
 
-<form action="/signup" method="post">
+<form>
   <p>Name: <input type="text" name="name" size="40"></p>
   <p>E-mail: <input type="text" name="name" size="40"></p>
   <p>Password: <input type="password" name="name" size="40"></p>
